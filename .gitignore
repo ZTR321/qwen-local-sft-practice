@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+project_1_artifacts/
+outputs/
+*.ipynb_checkpoints
